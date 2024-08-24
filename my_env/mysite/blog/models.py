@@ -3,7 +3,7 @@ from django.utils import timezone
 
 class Post(models.Model):
 
-    class Post(models.Model):
+    class Status(models.TextChoices):
         DRAFT = 'DF', 'Draft'
         PUBLISHED = 'PB', 'Published'
 
