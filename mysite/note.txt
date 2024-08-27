@@ -1,4 +1,0 @@
-django blog 
-admin username = admin
-email = 0ldcamel502@gmail.com
-password = Mer407
